@@ -27,6 +27,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/saptarshi-bandyopadhyay-7bb68214a/",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/saptarshi-00",
