@@ -9,7 +9,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "url": "/info"
+                "url": "/info",
+                "label": "ABOUY"
             },
             {
                 "type": "Link",
