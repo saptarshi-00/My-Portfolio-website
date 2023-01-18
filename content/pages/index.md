@@ -165,7 +165,7 @@ sections:
           isRequired: true
           width: full
           type: CheckboxFormControl
-          label: 'Click this to '
+          label: Click this to Hire me
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
