@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: DATA ANALYST BY ROLE AND A DATA SCIENTIST BY PASSION.
-    subtitle: 'Welcome to my '
+    subtitle: Welcome to my Portfolio website
     styles:
       self:
         height: auto
