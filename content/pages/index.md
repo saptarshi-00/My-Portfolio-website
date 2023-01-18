@@ -151,6 +151,7 @@ sections:
           hideLabel: true
           isRequired: true
           width: full
+          placeholder: Comments
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
