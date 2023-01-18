@@ -2,7 +2,6 @@
 title: Another cool project
 colors: colors-a
 layout: ProjectLayout
-client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
