@@ -58,7 +58,8 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "altText": ""
+                "altText": "",
+                "url": "bandyopadhy"
             },
             {
                 "type": "Link",
