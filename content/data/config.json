@@ -15,7 +15,8 @@
             },
             {
                 "type": "Link",
-                "label": "Projects"
+                "label": "Projects",
+                "url": "https://github.com/saptarshi-00"
             },
             {
                 "type": "Link",
