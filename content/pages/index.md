@@ -147,7 +147,6 @@ sections:
           width: 1/2
         - type: TextareaFormControl
           name: message
-          label: Tell me about your project
           hideLabel: true
           isRequired: true
           width: full
