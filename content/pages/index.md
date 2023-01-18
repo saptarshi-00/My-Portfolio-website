@@ -156,7 +156,7 @@ sections:
           name: updates
           isRequired: true
           width: full
-          label: cli
+          label: click this to send updates to me
       submitLabel: Send Message
     media: null
     styles:
