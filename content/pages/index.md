@@ -162,7 +162,6 @@ sections:
           label: Contact Number
           placeholder: Contact Number
         - name: updatesConsent
-          label: Sign me up to recieve updates
           isRequired: false
           width: full
           type: CheckboxFormControl
