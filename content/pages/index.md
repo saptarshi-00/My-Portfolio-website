@@ -155,7 +155,6 @@ sections:
           width: full
           type: EmailFormControl
         - name: address
-          label: Address
           hideLabel: true
           placeholder: Address
           isRequired: true
