@@ -156,6 +156,7 @@ sections:
           name: updates
           isRequired: true
           width: full
+          label: 'his to '
       submitLabel: Send Message
     media: null
     styles:
