@@ -162,7 +162,7 @@ sections:
           label: Contact Number
           placeholder: Contact Number
         - name: updatesConsent
-          isRequired: false
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
