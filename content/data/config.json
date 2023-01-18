@@ -31,14 +31,6 @@
                 "label": "GitHub",
                 "url": "https://github.com/saptarshi-00",
                 "icon": "github"
-            },
-            {
-                "type": "Social",
-                "label": "Linkedin",
-                "altText": "This is my Linkedin profile",
-                "icon": "linkedin",
-                "elementId": "",
-                "url": "https://www.linkedin.com/in/saptarshi-bandyopadhyay-7bb68214a/"
             }
         ],
         "styles": {
