@@ -1,5 +1,5 @@
 ---
-title: Another cool project
+title: Analysis and visualization of zomato data
 colors: colors-a
 layout: ProjectLayout
 description: >-
