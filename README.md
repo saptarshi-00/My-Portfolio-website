@@ -1,6 +1,6 @@
 # Personal Next.js Stackbit Starter
 
-![Personal Next.js Stackbit Starter](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+
 
 This is a multi-page, production-ready project built with Next.js and Tailwind, equipped with visual editing capabilities using Stackbit. It uses markdown files as the content source. See below for [other Stackbit example projects](#other-stackbit-projects).
 
