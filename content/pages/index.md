@@ -160,6 +160,7 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+          label: Cont
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
