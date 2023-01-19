@@ -70,7 +70,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: React
+        label: Python
       - type: Label
         label: Microsoft Office
       - type: Label
