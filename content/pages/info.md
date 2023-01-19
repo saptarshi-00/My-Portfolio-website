@@ -324,7 +324,7 @@ sections:
 
           > Assembly of Angels' Secondary School
           >
-          > 89.5%\*\*
+          > 89.5%
 
         styles:
           self:
