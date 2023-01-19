@@ -334,6 +334,8 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+          subtitle:
+            fontWeight: 500
     columns: 2
     spacingX: 60
     spacingY: 60
