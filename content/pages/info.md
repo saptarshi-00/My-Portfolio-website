@@ -307,42 +307,24 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: >+
-          **Institution                                                                    
-          Degree                                                       
-          Score                                   **
+        text: |+
+          *   **B.Tech in Mechanical Engineering ( 2017-2021)**
 
+          > Kalyani Government Engineering College, West Bengal
+          >
+          > 8.76 (DGPA)
 
-          Kalyani Government                                   B.Tech Mechanical
-          Engineering                    8.76 (DGPA)
+          *   **High School : AISSCE (2017)**
 
+          > Bholananda National Vidyalaya
+          >
+          > 77 %
 
-          Engineering College,
+          *   **High School : CISCE (2015)**
 
-
-          West Bengal
-
-
-
-
-          Bholananda National                                   High School
-          (AISSCE)                                         77%
-
-
-          Vidyalaya
-
-
-
-
-          Assembly of Angels                                     High School
-          (CISCE)                                            87.6%
-
-
-          Secondary School
-
-
-
-
+          > **Assembly of Angels' Secondary School
+          >
+          > 89.5%**
 
         styles:
           self:
