@@ -78,6 +78,7 @@ sections:
       - type: Label
         label: Power BI
       - type: Label
+        label: DAX
       - type: Label
         label: C++
       - type: Label
