@@ -126,7 +126,8 @@ sections:
     elementId: ''
     backgroundSize: full
     title: 'Impressed with my Portfolio, Contact Me'
-    text: I'm look forward to hearing from you.
+    text: |
+      I'm looking forward to hearing from you.
     form:
       type: FormBlock
       elementId: contact-form
