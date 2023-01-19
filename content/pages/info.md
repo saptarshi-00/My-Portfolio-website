@@ -82,7 +82,6 @@ sections:
       - type: Label
         label: Powershell
       - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
