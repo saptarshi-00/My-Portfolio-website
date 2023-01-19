@@ -68,6 +68,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
+        label: QL
       - type: Label
         label: React
       - type: Label
