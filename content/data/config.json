@@ -15,11 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "https://github.com/saptarshi-00"
-            },
-            {
-                "type": "Link",
                 "label": "BLOG",
                 "url": "/blog"
             }
