@@ -82,6 +82,7 @@ sections:
       - type: Label
         label: Powershell
       - type: Label
+        label: cel
   - type: DividerSection
     styles:
       self:
