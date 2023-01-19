@@ -74,7 +74,7 @@ sections:
       - type: Label
         label: Azure Data Factory
       - type: Label
-        label: Next.js
+        label: Azure Databricks
       - type: Label
         label: Stackbit
       - type: Label
