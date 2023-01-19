@@ -52,12 +52,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "altText": "",
-                "url": "bandyopadhyaysap@gmail.com"
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
