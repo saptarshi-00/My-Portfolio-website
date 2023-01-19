@@ -72,7 +72,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Factory
+        label: Azure Data Factory
       - type: Label
         label: Next.js
       - type: Label
