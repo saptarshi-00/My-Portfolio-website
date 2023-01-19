@@ -336,6 +336,7 @@ sections:
               - pr-0
           subtitle:
             fontWeight: 500
+            textDecoration: underline
     columns: 2
     spacingX: 60
     spacingY: 60
