@@ -80,7 +80,6 @@ sections:
       - type: Label
         label: DAX
       - type: Label
-        label: C++
       - type: Label
         label: Swift
   - type: DividerSection
