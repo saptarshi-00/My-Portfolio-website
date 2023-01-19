@@ -46,7 +46,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
                 "url": "/info",
                 "altText": ""
             },
