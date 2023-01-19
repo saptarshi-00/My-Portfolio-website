@@ -80,7 +80,7 @@ sections:
       - type: Label
         label: DAX
       - type: Label
-        label: powershell
+        label: Powershell
       - type: Label
         label: Swift
   - type: DividerSection
