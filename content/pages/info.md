@@ -72,6 +72,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
+        label: Factory
       - type: Label
         label: Next.js
       - type: Label
