@@ -322,9 +322,9 @@ sections:
 
           *   **High School : CISCE (2015)**
 
-          > **Assembly of Angels' Secondary School
+          > Assembly of Angels' Secondary School
           >
-          > 89.5%**
+          > 89.5%\*\*
 
         styles:
           self:
