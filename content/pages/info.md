@@ -244,26 +244,71 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          **Aug 2022 - Present : Cognizant Technology Solutions**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          **Programmer Analyst (Data Analyst)**
 
-          * fullstack at this startup
 
-          **2015**
+          ```
 
-          * senior front-end at this place
+          Technologies used : Power BI, SQL, DAX, ORACLE, Denodo
 
-          **2013**
+          ```
 
-          * intern developer at a big company
 
-          **2011**
+          *   Developed a Power BI reports and dashboards for the client R\&D
+          team.
 
-          * flipping burgers
+
+          *   Worked on the migration of old cognos report into Power BI reports
+          and converted cognos SQL to equivalent DAX syntax.
+
+
+          *   Single handedly worked on the optimization of query to enhance the
+          performance of reports and dashboard in dev environment.
+
+
+          **Aug 2021 - Aug 2022 : Cognizant Technology Solutions**
+
+
+          **Programmer Analyst Trainee (Data Engineer)**
+
+
+          ```
+
+          Technologies used : Azure Data Factory, Azure Databricks, Pyspark,
+          Python, SQL, Powershell
+
+          ```
+
+
+          *
+
+
+          **Jan 2021 - Jul 2021 : Cognizant Technology Solutions**
+
+
+          **Intern ( Azure cloud stack Intern)**
+
+
+          ```
+
+          Technologies used : SQL, Microsoft Azure, Hadoop, Pyspark
+
+          ```
+
+
+          *   Extensively worked on the development of Timesheet Management
+          System, where employees can log their daily work timings. Single
+          Handedly worked on the creation of database for this project using
+          MySQL.
+
+          *   Gained Knowledge and insights on Azure, Hadoop and other Bigdata
+          technologies through knowledge transfer sessions and several handson
+          activities.
+
         styles:
           self:
             textAlign: left
