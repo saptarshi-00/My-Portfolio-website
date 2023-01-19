@@ -47,7 +47,8 @@
             {
                 "type": "Link",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "label": " ME"
             },
             {
                 "type": "Link",
