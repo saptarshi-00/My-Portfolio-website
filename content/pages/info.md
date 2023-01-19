@@ -76,7 +76,7 @@ sections:
       - type: Label
         label: Azure Databricks
       - type: Label
-        label: Stackbit
+        label: Power BI
       - type: Label
         label: Pancakes
       - type: Label
