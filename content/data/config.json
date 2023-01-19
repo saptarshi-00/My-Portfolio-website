@@ -72,6 +72,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/saptarshi-00",
                 "altText": "GitHub"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/saptarshi-bandyopadhyay-7bb68214a/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
