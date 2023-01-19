@@ -78,7 +78,6 @@ sections:
       - type: Label
         label: Power BI
       - type: Label
-        label: Pancakes
       - type: Label
         label: C++
       - type: Label
