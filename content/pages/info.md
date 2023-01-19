@@ -307,18 +307,43 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Institution                                                                    
+          Degree                                                       
+          Score                                   **
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          Kalyani Government                                   B.Tech Mechanical
+          Engineering                    8.76 (DGPA)
 
-          * react certificate somewhere
 
-          **2011**
+          Engineering College,
 
-          * my highschool
+
+          West Bengal
+
+
+
+
+          Bholananda National                                   High School
+          (AISSCE)                                         77%
+
+
+          Vidyalaya
+
+
+
+
+          Assembly of Angels                                     High School
+          (CISCE)                                            87.6%
+
+
+          Secondary School
+
+
+
+
+
         styles:
           self:
             textAlign: left
