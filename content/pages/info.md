@@ -82,7 +82,7 @@ sections:
       - type: Label
         label: Powershell
       - type: Label
-        label: cel
+        label: Microsoft Excel
   - type: DividerSection
     styles:
       self:
