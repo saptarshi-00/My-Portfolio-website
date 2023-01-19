@@ -12,11 +12,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      #### I am Saptarshi Bandyopadhyay, a Power BI Data Analyst at Cognizant. I
+      have around 1.5 years of experience in Azure Data Factory, Azure
+      Databricks, SQL, DAX, Python, Power BI,Pyspark and Powershell. I have
+      worked on both data engineering and data analysis team.
+
+
+      #### I am an active learner willing to learn new technologies while adding
+      value to the organisation. Proficient in English language to convince
+      potential customers and clients.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
