@@ -306,7 +306,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: EDUCATION
         text: |+
           *   **B.Tech in Mechanical Engineering ( 2017-2021)**
 
