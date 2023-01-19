@@ -251,11 +251,7 @@ sections:
           **Programmer Analyst (Data Analyst)**
 
 
-          ```
-
-          Technologies used : Power BI, SQL, DAX, ORACLE, Denodo
-
-          ```
+          > Technologies used : Power BI, SQL, DAX, ORACLE, Denodo
 
 
           *   Developed a Power BI reports and dashboards for the client R\&D
@@ -276,12 +272,8 @@ sections:
           **Programmer Analyst Trainee (Data Engineer)**
 
 
-          ```
-
-          Technologies used : Azure Data Factory, Azure Databricks, Pyspark,
+          > Technologies used : Azure Data Factory, Azure Databricks, Pyspark,
           Python, SQL, Powershell
-
-          ```
 
 
           *
@@ -293,11 +285,7 @@ sections:
           **Intern ( Azure cloud stack Intern)**
 
 
-          ```
-
-          Technologies used : SQL, Microsoft Azure, Hadoop, Pyspark
-
-          ```
+          > Technologies used : SQL, Microsoft Azure, Hadoop, Pyspark
 
 
           *   Extensively worked on the development of Timesheet Management
