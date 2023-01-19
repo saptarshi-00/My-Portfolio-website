@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: DATA ANALYST BY ROLE AND A DATA SCIENTIST BY PASSION.
+    title: DATA ANALYST | Data science enthusiast
     subtitle: Welcome to my Portfolio website. Explore to know more about me.
     styles:
       self:
