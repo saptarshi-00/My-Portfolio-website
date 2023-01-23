@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/dashboard pic.png
   altText: Project image
 title: Quality Dashboard in Power BI
 date: '2023-01-01'
