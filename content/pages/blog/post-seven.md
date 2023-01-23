@@ -1,7 +1,6 @@
 ---
 colors: colors-a
 layout: PostLayout
-date: '2022-01-04'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
