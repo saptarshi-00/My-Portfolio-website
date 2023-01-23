@@ -12,7 +12,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/eda inside pic.png
   altText: Project image
 date: '2022-11-10'
 ---
