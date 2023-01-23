@@ -9,7 +9,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Learn more",
                 "altText": "",
                 "url": "/projects",
                 "showIcon": false,
