@@ -20,6 +20,5 @@ This is a Power BI quality dashboard to visualize the sample, sampling error, fa
 
 To know more about this project you can visit my github profile in the link given below,
 
-```
-```
+> https://github.com/saptarshi-00
 
