@@ -83,6 +83,9 @@ sections:
         label: Powershell
       - type: Label
         label: Microsoft Excel
+      - type: Label
+        label: 'Web Hosting : Netlify'
+        url: ''
   - type: DividerSection
     styles:
       self:
