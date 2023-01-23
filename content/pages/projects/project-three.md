@@ -1,5 +1,4 @@
 ---
-title: One more cool project
 colors: colors-a
 layout: ProjectLayout
 date: '2022-01-22'
