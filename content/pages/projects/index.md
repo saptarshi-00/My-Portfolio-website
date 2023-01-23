@@ -32,7 +32,7 @@ bottomSections:
     backgroundSize: full
     title: >-
       to know more about my projects and assignments, visit my github profile in
-      the Links provided.
+      the Link provided.
     colors: colors-f
     styles:
       self:
