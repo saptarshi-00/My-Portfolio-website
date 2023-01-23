@@ -5,7 +5,6 @@ date: '2021-06-28'
 author: content/data/team/doris-soto.json
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
