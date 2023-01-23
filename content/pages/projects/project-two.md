@@ -2,10 +2,7 @@
 title: EDA and visualization of zomato data
 colors: colors-a
 layout: ProjectLayout
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: "Exploratory data analysis and visualization of a zomato dataset\_ from kaggle has been performed using python, panda and other visualization libraries of python in jupiter notebook."
 featuredImage:
   type: ImageBlock
   url: /images/prtfolio_project 1 pic.png
