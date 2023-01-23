@@ -4,38 +4,60 @@
     "header": {
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "SAPTARSHI BANDYOPADHYAY",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "altText": "",
+                "url": "https://drive.google.com/file/d/1Ciqt9yXp8zSMSrvqPjl086-xF1Cs5CvB/view?usp=share_link",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "label": "download resume"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "altText": "",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "label": "PROJECTS"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "url": "/info",
+                "label": "ABOUT ME",
+                "altText": "I am Saptarshi Bandyopadhyay, a Data Analyst at Cognizant. I have around 1.5 years of experience in Power BI development and Azure data engineering. "
+            },
+            {
+                "type": "Link",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "label": "HOME"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/stackbit",
-                "icon": "twitter"
+                "label": "Linkedin",
+                "altText": "Linkedin",
+                "url": "https://www.linkedin.com/in/saptarshi-bandyopadhyay-7bb68214a/",
+                "icon": "linkedin",
+                "elementId": ""
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/stackbit-themes",
+                "url": "https://github.com/saptarshi-00",
                 "icon": "github"
             }
         ],
@@ -49,43 +71,66 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
                 "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "altText": "",
+                "label": "ABOUT ME"
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/stackbit-themes",
-                "altText": ""
+                "url": "https://github.com/saptarshi-00",
+                "altText": "GitHub"
+            },
+            {
+                "type": "Link",
+                "label": "LINKEDIN",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/saptarshi-bandyopadhyay-7bb68214a/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "altText": "",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "label": "PROJECTS"
+            },
+            {
+                "type": "Link",
+                "label": "download resume",
+                "altText": "",
+                "url": "https://drive.google.com/file/d/1Ciqt9yXp8zSMSrvqPjl086-xF1Cs5CvB/view?usp=share_link",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "bandyopadhyaysap@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "Kolkata, West Bengal, India, PIN-743127",
+            "addressAltText": "My address",
+            "phoneNumber": "9748805547"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

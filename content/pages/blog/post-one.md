@@ -1,21 +1,11 @@
 ---
-title: How I started a startup 🚀
 colors: colors-a
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
   altText: Post thumbnail image
-media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -51,7 +41,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
