@@ -7,12 +7,6 @@ featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
   altText: Post thumbnail image
-media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
