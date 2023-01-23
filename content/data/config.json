@@ -9,6 +9,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "url": "/info",
                 "label": "ABOUT ME",
                 "altText": "I am Saptarshi Bandyopadhyay, a Data Analyst at Cognizant. I have around 1.5 years of experience in Power BI development and Azure data engineering. "
