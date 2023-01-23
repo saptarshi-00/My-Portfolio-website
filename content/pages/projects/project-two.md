@@ -1,5 +1,5 @@
 ---
-title: Analysis and visualization of zomato data
+title: EDA and visualization of zomato data
 colors: colors-a
 layout: ProjectLayout
 description: >-
