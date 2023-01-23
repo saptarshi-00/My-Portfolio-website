@@ -3,10 +3,6 @@ colors: colors-a
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/doris-soto.json
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image5.jpg
-  altText: Post thumbnail image
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
