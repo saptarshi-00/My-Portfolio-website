@@ -14,7 +14,7 @@ date: '2023-01-01'
 description: >-
   This is a quality dashboard built in Power BI to visualize the sample,
   sampling error, fatal error month wise, location of employees world wide in
-  filled map
+  filled map and other info
 ---
 This is a Power BI quality dashboard to visualize the sample, sampling error, fata error & its percentage and employees located location wise in a filled map.
 
