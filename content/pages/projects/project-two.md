@@ -13,5 +13,3 @@ media:
   altText: Project image
 date: '2022-11-10'
 ---
-
-
