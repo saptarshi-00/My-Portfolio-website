@@ -138,7 +138,17 @@ sections:
           Python, SQL, Powershell
 
 
-          *
+          *   Utilized Azure Databricks, Azure Datafactory and SSMS to clean,
+          map and migrate gen 1 into gen 2 data from old(Rx) into new(COdi)
+          framework.
+
+          *   Highly contributed singly and in a team for code changes in
+          Databricks notebook using Spark and python.
+
+          *   Experienced in working with Powershell and Azure Synapse Analytics
+          for project related assignments.
+
+
 
 
           **Jan 2021 - Jul 2021 : Cognizant Technology Solutions**
