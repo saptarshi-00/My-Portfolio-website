@@ -86,6 +86,9 @@ sections:
       - type: Label
         label: 'Web Hosting : Netlify'
         url: ''
+      - type: Label
+        label: Jamstack (Basic)
+        url: ''
   - type: DividerSection
     styles:
       self:
