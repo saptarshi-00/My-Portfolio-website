@@ -13,3 +13,9 @@ media:
   altText: Project image
 date: '2022-11-10'
 ---
+Exploratory Data Analysis and Visualization of a Zomato dataset  from Kaggle has been performed using python, panda and other visualization libraries of python in jupiter notebook.
+
+To know more abou this project and the code snippets used in this project , visit my github profile in the below link.
+
+> <https://github.com/saptarshi-00>
+
