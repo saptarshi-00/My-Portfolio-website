@@ -30,7 +30,9 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: >-
+      to know more about my projects and assignments, visit my github profile in
+      the Links provided.
     colors: colors-f
     styles:
       self:
