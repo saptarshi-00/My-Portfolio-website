@@ -116,7 +116,7 @@ sections:
           > Technologies used : Power BI, SQL, DAX, ORACLE, Denodo
 
 
-          *   Developed a Power BI reports and dashboards for the client R\&D
+          *   Developed  Power BI reports and dashboards for the client R\&D
           team.
 
 
